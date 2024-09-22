@@ -1,5 +1,12 @@
 # Web Scraper with GUI
 
+# URL
+https://github.com/pleabargain/scrapy_search
+
+# written by
+claude.ai
+
+
 This Python script provides a graphical user interface (GUI) for a web scraper that searches for specific terms on given URLs and extracts the sentences containing those terms.
 
 ## Prerequisites
